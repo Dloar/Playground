@@ -1,0 +1,1740 @@
+Last login: Thu Feb  8 18:48:09 on ttys000
+Ondrejs-MacBook-Air:~ ondrejkral$ ls
+Applications				Music					Shapiro_akut04.xlsx			hack1.py				robotnav
+Casovky.R				Pictures				Shapiro_akut05.xlsx			hw1_data.csv				rprog-016_Basic_Building_Blocks.txt
+DU7_vys.xlsx				Public					Shapiro_akut06.xlsx			iCloud Drive (Archive)			rprog-016_Missing_Values.txt
+Desktop					Python					Untitled.ipynb				index.html				rprog-016_Sequences_of_Numbers.txt
+Documents				README.md				Vyber1.png				java.log.37044				rprog-016_Vectors.txt
+Documets				Results.csv				Vyber2.png				matlab_crash_dump.37044-1		server_beg_S_1.R
+Domunts.txt				Results2.csv				Vyber3.png				myscatterplot.pdf			test.excelfile.xlsx
+Downloads				Rplot.png				anaconda2				nltk_data				vyp_fin_11cv.csv
+KK.xlsx					Shapiro.xlsx				beg_w_S_1.R				res.csv					workspace
+Library					Shapiro_akut.xlsx			clock.sh				res.xlsx
+Logs					Shapiro_akut01.xlsx			data.csv				res_exlt.xlsx
+M.csv					Shapiro_akut02.xlsx			data_d.csv				res_mult.csv
+Movies					Shapiro_akut03.xlsx			database.sqlite				res_multi.csv
+Ondrejs-MacBook-Air:~ ondrejkral$ history
+    1  /Volumes/FreeAgent\ Drive/Obrázky/Unknown ; exit;
+    2  /Users/ondrejkral/Downloads/mac64/matlab_R2012b_maci64_installer/install ; exit;
+    3  /Volumes/MATHWORKS_R2011B/install ; exit;
+    4  /Users/ondrejkral/Downloads/MacVim-snapshot-74/mvim ; exit;
+    5  python
+    6  python
+    7  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435438.099.py.command ; exit;
+    8  ls
+    9  cd Documents
+   10  first
+   11  first.py
+   12  Python
+   13  ls
+   14  Documents
+   15  Python1
+   16  Desktop
+   17  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435833.846.py.command ; exit;
+   18  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435952.647.py.command ; exit;
+   19  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436007.255.py.command ; exit;
+   20  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435855.356.py.command ; exit;
+   21  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436066.789.py.command ; exit;
+   22  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436083.180.py.command ; exit;
+   23  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436110.428.py.command ; exit;
+   24  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436172.213.py.command ; exit;
+   25  Python
+   26  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477522724.162.py.command ; exit;
+   27  Python
+   28  DESKTOP
+   29  Desktop
+   30  Ptthon
+   31  X
+   32  conda install as seaborn
+   33  pip install
+   34  pip install seaborn
+   35  conda install seaborn
+   36  conda install panda
+   37  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   38  /Users/ondrejkral/anaconda/bin/pip ; exit;
+   39  pip instal jupyter
+   40  pip install jupyter
+   41  conda upgrade jupyter
+   42  run jupyter
+   43  jupyer notebook
+   44  cd/Ondra
+   45  jupyer notebook
+   46  ssh root@127.0.0.1 -p 2222;
+   47  git init
+   48  notepad explore.exe
+   49  note explore.exe
+   50  git init
+   51  git log
+   52  word explore.exe
+   53  notes explore.exe
+   54  sudo pip install cvxopt
+   55  q
+   56  quit
+   57  sudo -q
+   58  sudo list
+   59  sudo -list
+   60  sudo -u
+   61  sudo --u
+   62  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   63  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   64  /Users/ondrejkral/anaconda/pkgs/anaconda-client-1.2.2-py27_0/bin/anaconda ; exit;
+   65  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   66  install requests
+   67  /Users/ondrejkral/anaconda/pkgs/anaconda-client-1.2.2-py27_0/bin/anaconda ; exit;
+   68  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   69  /Applications/Python\ 3.5/Update\ Shell\ Profile.command ; exit;
+   70  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   71  bash Anaconda2-4.2.0-MacOSX-x86_64.sh
+   72   Anaconda2-4.2.0-MacOSX-x86_64.sh
+   73  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   74  Anaconda2-4.2.0-MacOSX-x86_64.sh
+   75  /Users/ondrejkral/anaconda/bin/anaconda 
+   76  install requests
+   77  bash
+   78  port install tor
+   79  sudo port install tor
+   80  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   81  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   82  pip install html
+   83  pip install stackoverflow
+   84  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   85  ipconfig
+   86  list
+   87  config
+   88  list
+   89  ls
+   90  ip
+   91  quit() ls
+   92  list
+   93  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   94  conda install mysqldb
+   95  conda install mysqldb-python
+   96  conda install mysql-python
+   97  pip install MySQL-python
+   98  pip install -update
+   99  pip --install --upgrade -E
+  100  pip list
+  101  conda env export -n <env-name> > environment.yml
+  102  conda env
+  103  pip install -upgarde pip
+  104  python -m install --upgrade pip
+  105  pip install -upgarde pippi
+  106  pip install
+  107  q() pip install -upgrade pip
+  108  pip install -upgrade pip
+  109  pip install mySQLdb
+  110  pip install -upgrade time
+  111  pip install -upgrade boto
+  112  pip install  boto
+  113  pip install boto
+  114  pip install --upgrade pip
+  115  pip install time
+  116  conda install mysql-connector-python
+  117  conda install bcrypt
+  118  q()
+  119  /Users/ondrejkral/.anaconda/navigator/a.tool ; exit;
+  120  defaults write com.bundle.identifier WebKitDeveloperExtras -bool true
+  121  start Rstudio
+  122  help
+  123  times
+  124  date
+  125  true
+  126  type
+  127  set
+  128  export
+  129  help
+  130  ps
+  131  ps
+  132  ps
+  133  ping www.seznam.cz
+  134  history
+  135  ping www.seznam.cz
+  136  date
+  137  echo
+  138  exho date
+  139  help
+  140  history
+  141  pico
+  142  sudo 
+  143  sudo -h
+  144  ls
+  145  Vyber1.png
+  146  CD DONWLOAD
+  147  CD..
+  148  cd..
+  149  pwd
+  150  chmod
+  151  chmod -R
+  152  cl
+  153  ls
+  154  M.csv
+  155  start M.csv
+  156  sudo M.csv /start
+  157  git clone 
+  158  git clone https://github.com/robotnav/robotnav.git
+  159  CFLAGS = -g -Wall -static
+  160  pwv
+  161  psw
+  162  ip
+  163  ls
+  164  ping www.seznam.cz
+  165  ls
+  166  cd
+  167  cd ..
+  168  pwd
+  169  /Users/Documets
+  170  chmof
+  171  diff
+  172  --help
+  173  help
+  174  logout
+  175  sudo -h
+  176  sudo -A
+  177  sudi -h -A
+  178  sudo -askpas
+  179  sudo run Excel
+  180  start Excel
+  181  excel
+  182  open -a iTunes
+  183  open SAFARY
+  184  open Safari
+  185  open -a Safari
+  186  createinstallmedia
+  187  sudo createinstallmedia
+  188  createinstallmedia
+  189  createinstallmedia --volume volumepath
+  190  createinstallmedia --volume volumepath --applicationpath installerpath
+  191  sudo createinstallmedia --volume volumepath --applicationpath installerpath
+  192  createinstallmedia
+  193  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath "/Applications/Install OS X Yosemite.app"
+  194  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+  195  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/F_32G --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+  196  quit
+  197  q
+  198  diskutil
+  199  diskutil list
+  200  diskutil info
+  201  sudi tmutil
+  202  sudo tmutil
+  203  cat/proc/meminfo
+  204  meminfo
+  205  free -o -h
+  206  ls
+  207  cd
+  208  ls
+  209  ls -F
+  210  ls
+  211  cd desktop
+  212  ls
+  213  cd ..
+  214  cd Downloads
+  215  ls
+  216  ls ev3-print3rbot-master/
+  217  cd ..
+  218  Downloads/ev3-print3rbot-master robot@ev3dev:/home/robot
+  219  scp Downloads/ev3-print3rbot-master robot@ev3dev:/home/robot
+  220  scp Desktop/writer.py robot@ev3dev:/home/robot
+  221  ls
+  222  scp ~/Desktop/writer.py robot@ev3dev:/home/robot
+  223  scp robot@ev3dev:/home/robot ~/Desktop/writer.py
+  224  scp robot@ev3dev:/home/robot/writer.py ~/Desktop/writer.py
+  225  whoami
+  226  scp ~/Desktop/writer.py robot@ev3dev:/home/robot/writer.py
+  227  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  228  scp ~/Desktop/svg robot@192.168.2.2:/home/robot/svg
+  229  scp ~/Desktop/svg/ robot@192.168.2.2:/home/robot/svg/
+  230  scp -r ~/Desktop/svg robot@192.168.2.2:/home/robot/svg
+  231  scp -r ~/Desktop/images robot@192.168.2.2:/home/robot/images
+  232  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  233  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  234  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  235  scp ~/Desktop/index12.html pi@192.168.0.104:/var/www/html/index.html
+  236  scp ~/Desktop/index.html pi@192.168.0.104:/var/www/html/index12.html
+  237  ping 192.168.81.216
+  238  /Users/ondrejkral/anaconda2/bin/jupyter_mac.command ; exit;
+  239  ls
+  240  ssh pi@192.168.64.1
+  241  ssh pi@192.168.0.104
+  242  ssh pi@192.168.64.1
+  243  ssh pi@192.168.64.1
+  244  ssh pi@192.168.0.104
+  245  ssh pi@192.168.64.1
+  246  ssh pi@192.168.0.104
+  247  ssh pi@192.168.64.1
+  248  ssh pi@192.168.64.1
+  249  ssh pi@192.168.0.104
+  250  ssh pi@192.168.0.104
+  251  ssh pi@192.168.0.104
+  252  ssh pi@192.168.0.104
+  253  ssh pi@192.168.0.104
+  254  ssh pi@192.168.0.104
+  255  ssh pi@192.168.0.104
+  256  ssh pi@192.168.0.104
+  257  ssh pi@192.168.0.104
+  258  ssh pi@192.168.0.104
+  259  ifconfig
+  260  whoami
+  261  ssh pi@192.168.0.104
+  262  ssh-keygen -R hostname
+  263  ssh-keygen -R ondrejkral
+  264  whoami
+  265  ssh-keygen -R ondrejkral
+  266  cd ..
+  267  cd home/ondrejkral/.ssh/
+  268  ifconfig
+  269  RMNUD,DAD>
+  270  media: autoselect
+  271  status: active
+  272  p2p0: flags=8843<UP,BROADCAST,RUNNING,SIMPLEX,MULTICAST> mtu 2304
+  273  ether 06:76:ba:a4:72:c2 
+  274  ipconfig getifaddr en0
+  275  ssh-keygen -R hostname
+  276  ssh pi@192.168.0.104
+  277  ssh pi@192.168.0.104
+  278  ssh pi@192.168.81.216
+  279  ssh-keygen -f "/root/.ssh/known_hosts" -R 192.168.1.234
+  280  ssh pi@192.168.81.216
+  281  ssh pi@192.168.81.216
+  282  ssh pi@192.168.0.104
+  283  ssh pi@192.168.0.104
+  284  ssh pi@192.168.81.216
+  285  ping 192.168.81.216
+  286  ping 192.168.81.216
+  287  ping 192.168.81.216
+  288  ping 192.168.81.216
+  289  ssh pi@192.168.0.104
+  290  ssh pi@192.168.0.104
+  291  python
+  292  /opt/vc/bin/vcgencmd measure_temp
+  293  R
+  294  ping 192.168.81.216
+  295  ssh pi@192.168.81.216
+  296  ssh pi@192.0.0.103
+  297  ssh pi@192.168.0.103
+  298  ssh pi@192.168.0.103
+  299  ssh pi@192.168.0.104
+  300  ssh pi@192.168.0.104
+  301  ssh pi@192.168.0.104
+  302  ping 192.168.81.216
+  303  ping 192.168.81.216
+  304  ssh pi@192.168.0.104
+  305  ssh pi@176.114.250.195
+  306  ping 176.114.250.195
+  307  ping 176.114.250.195
+  308  ping 176.114.250.195
+  309  python
+  310  ping 176.114.250.195
+  311  R
+  312  ping 176.114.250.195
+  313  ping 176.114.250.195
+  314  ls -R
+  315  man cut
+  316  pwd
+  317  ls
+  318  head Results.csv
+  319  size Results.csv
+  320   Results.csv
+  321  head data_d.csv
+  322  cut -f 3 -d ,
+  323  cut data_d.csv -f 3 -d ,
+  324  cut -f 3 -d , data_d.csv
+  325  cut -f 3 -d : data_d.csv
+  326  history
+  327  history ls
+  328  history ping 192.168.81.216
+  329  ping 192.168.81.216
+  330  ping 192.168.81.216
+  331  ping 192.168.81.216
+  332  ssh 176.114.250.192
+  333  ssh 192.168.81.216
+  334  ping 176.114.250.192
+  335  ifconfig
+  336  ssh 192.168.0.104
+  337  ping 192.168.0.104
+  338  ping 176.114.250.192
+  339  ping 176.114.250.192 @pi
+  340  ping 176.114.250.192 pi@raspberypi
+  341  ssh pi@raspberrypi 
+  342  ssh pi@raspberrypi 176.114.250.195
+  343  ssh 176.114.250.195
+  344  ssh 176.114.250.195
+  345  ping 176.114.250.192 pi@raspberypi
+  346  ping 176.114.250.192
+  347  ping 192.168.0.104
+  348  ping 192.168.0.104
+  349  reboot
+  350  reboot
+  351  ping 192.168.0.104
+  352  ping 192.168.0.104
+  353  ping 192.168.0.104
+  354  ping 176.114.250.192
+  355  ifconfig
+  356  ping 176.114.250.192
+  357  ssh 176.114.250.192
+  358  ssh 192.168.0.104
+  359  ssh 192.168.0.104
+  360  ssh 192.168.0.104
+  361  ssh pi@192.168.0.104
+  362  ping 176.114.250.192
+  363  ls ~/ssh
+  364  ls ~/.ssh
+  365  ssh-keygen -t rsa -C "Raspberry Pi"
+  366  ls ~/.ssh
+  367  ssh dloar@192.168.0.104
+  368  R
+  369  y
+  370  ssh pi@192.168.0.104
+  371  ssh pi@192.168.0.104
+  372  ping 176.114.250.195 
+  373  ssh dlaor@176.114.250.195
+  374  ssh dloar@176.114.250.195
+  375  ping 176.114.250.195
+  376  ssh dloar@176.114.250.195
+  377  ssh dloar@176.114.250.195
+  378  ping 176.114.250.195
+  379  ping 176.114.250.195
+  380  ping 176.114.250.195
+  381  ping 176.114.250.195
+  382  ping 176.114.250.195
+  383  ping 176.114.250.195
+  384  ping 176.114.250.195
+  385  python
+  386  ping 176.114.250.195
+  387  df -h
+  388  cut --help
+  389  cut -f --help
+  390  cut -d,--help
+  391  ping 176.114.250.195
+  392  ping 176.114.250.195
+  393  ssh dloar@176.114.250.195
+  394  ssh dloar@176.114.250.195
+  395  ssh dloar@176.114.250.195
+  396  ssh dloar@176.114.250.195
+  397  ssh dloar@176.114.250.195
+  398  ssh pi@176.114.250.195
+  399  ssh pi@176.114.250.195
+  400  ssh pi@176.114.250.195
+  401  ssh pi@176.114.250.195
+  402  ssh pi@176.114.250.195
+  403  ssh alllp@176.114.250.195
+  404  ssh root@176.114.250.195
+  405  ssh alllp@176.114.250.195
+  406  ssh pi@192.168.0.104
+  407  ssh dloar@176.114.250.195
+  408  ssh pi@192.168.0.104
+  409  ssh dloar@176.114.250.195
+  410  ping 176.114.250.195
+  411  ifconfig
+  412  ping 176.114.250.195
+  413  ssh dloar@176.114.250.195
+  414  ssh dloar@176.114.250.195
+  415  ssh dloar@176.114.250.195
+  416  ssh dloar@176.114.250.195
+  417  ssh dloar@176.114.250.195
+  418  ssh dloar@176.114.250.195
+  419  ssh dloar@176.114.250.195
+  420  ssh dloar@176.114.250.195
+  421  ssh dloar@176.114.250.195
+  422  python
+  423  R
+  424  df
+  425  df -f
+  426  df -h
+  427  ssh dloar@176.114.250.195
+  428  ssh dloar@176.114.250.195
+  429  ssh dloar@176.114.250.195
+  430  ssh dloar@176.114.250.195
+  431  ssh dloar@176.114.250.195
+  432  ssh dloar@176.114.250.195
+  433  ssh dloar@176.114.250.195
+  434  ssh dloar@176.114.250.195
+  435  ssh dloar@176.114.250.195
+  436  ssh dloar@176.114.250.195
+  437  ssh dloar@176.114.250.195
+  438  ssh dloar@176.114.250.195
+  439  ssh dloar@176.114.250.195
+  440  ssh dloar@176.114.250.195
+  441  ssh dloar@176.114.250.195
+  442  ssh dloar@176.114.250.195
+  443  ssh dloar@176.114.250.195
+  444  ssh dloar@176.114.250.195
+  445  ssh dloar@176.114.250.195
+  446  ssh dloar@176.114.250.195
+  447  ssh dloar@176.114.250.195
+  448  ssh dloar@176.114.250.195
+  449  ssh dloar@176.114.250.195
+  450  ssh dloar@176.114.250.195
+  451  ssh dloar@176.114.250.195
+  452  ssh dloar@176.114.250.195
+  453  ssh dloar@176.114.250.195
+  454  scp dloar@192.168.0.104:/var/www/html/index.html index.html
+  455  ls
+  456  history
+Ondrejs-MacBook-Air:~ ondrejkral$ history -h
+-bash: history: -h: invalid option
+history: usage: history [-c] [-d offset] [n] or history -awrn [filename] or history -ps arg [arg...]
+Ondrejs-MacBook-Air:~ ondrejkral$ history 452
+    7  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435438.099.py.command ; exit;
+    8  ls
+    9  cd Documents
+   10  first
+   11  first.py
+   12  Python
+   13  ls
+   14  Documents
+   15  Python1
+   16  Desktop
+   17  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435833.846.py.command ; exit;
+   18  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435952.647.py.command ; exit;
+   19  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436007.255.py.command ; exit;
+   20  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435855.356.py.command ; exit;
+   21  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436066.789.py.command ; exit;
+   22  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436083.180.py.command ; exit;
+   23  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436110.428.py.command ; exit;
+   24  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436172.213.py.command ; exit;
+   25  Python
+   26  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477522724.162.py.command ; exit;
+   27  Python
+   28  DESKTOP
+   29  Desktop
+   30  Ptthon
+   31  X
+   32  conda install as seaborn
+   33  pip install
+   34  pip install seaborn
+   35  conda install seaborn
+   36  conda install panda
+   37  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   38  /Users/ondrejkral/anaconda/bin/pip ; exit;
+   39  pip instal jupyter
+   40  pip install jupyter
+   41  conda upgrade jupyter
+   42  run jupyter
+   43  jupyer notebook
+   44  cd/Ondra
+   45  jupyer notebook
+   46  ssh root@127.0.0.1 -p 2222;
+   47  git init
+   48  notepad explore.exe
+   49  note explore.exe
+   50  git init
+   51  git log
+   52  word explore.exe
+   53  notes explore.exe
+   54  sudo pip install cvxopt
+   55  q
+   56  quit
+   57  sudo -q
+   58  sudo list
+   59  sudo -list
+   60  sudo -u
+   61  sudo --u
+   62  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   63  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   64  /Users/ondrejkral/anaconda/pkgs/anaconda-client-1.2.2-py27_0/bin/anaconda ; exit;
+   65  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   66  install requests
+   67  /Users/ondrejkral/anaconda/pkgs/anaconda-client-1.2.2-py27_0/bin/anaconda ; exit;
+   68  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   69  /Applications/Python\ 3.5/Update\ Shell\ Profile.command ; exit;
+   70  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   71  bash Anaconda2-4.2.0-MacOSX-x86_64.sh
+   72   Anaconda2-4.2.0-MacOSX-x86_64.sh
+   73  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   74  Anaconda2-4.2.0-MacOSX-x86_64.sh
+   75  /Users/ondrejkral/anaconda/bin/anaconda 
+   76  install requests
+   77  bash
+   78  port install tor
+   79  sudo port install tor
+   80  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   81  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   82  pip install html
+   83  pip install stackoverflow
+   84  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   85  ipconfig
+   86  list
+   87  config
+   88  list
+   89  ls
+   90  ip
+   91  quit() ls
+   92  list
+   93  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   94  conda install mysqldb
+   95  conda install mysqldb-python
+   96  conda install mysql-python
+   97  pip install MySQL-python
+   98  pip install -update
+   99  pip --install --upgrade -E
+  100  pip list
+  101  conda env export -n <env-name> > environment.yml
+  102  conda env
+  103  pip install -upgarde pip
+  104  python -m install --upgrade pip
+  105  pip install -upgarde pippi
+  106  pip install
+  107  q() pip install -upgrade pip
+  108  pip install -upgrade pip
+  109  pip install mySQLdb
+  110  pip install -upgrade time
+  111  pip install -upgrade boto
+  112  pip install  boto
+  113  pip install boto
+  114  pip install --upgrade pip
+  115  pip install time
+  116  conda install mysql-connector-python
+  117  conda install bcrypt
+  118  q()
+  119  /Users/ondrejkral/.anaconda/navigator/a.tool ; exit;
+  120  defaults write com.bundle.identifier WebKitDeveloperExtras -bool true
+  121  start Rstudio
+  122  help
+  123  times
+  124  date
+  125  true
+  126  type
+  127  set
+  128  export
+  129  help
+  130  ps
+  131  ps
+  132  ps
+  133  ping www.seznam.cz
+  134  history
+  135  ping www.seznam.cz
+  136  date
+  137  echo
+  138  exho date
+  139  help
+  140  history
+  141  pico
+  142  sudo 
+  143  sudo -h
+  144  ls
+  145  Vyber1.png
+  146  CD DONWLOAD
+  147  CD..
+  148  cd..
+  149  pwd
+  150  chmod
+  151  chmod -R
+  152  cl
+  153  ls
+  154  M.csv
+  155  start M.csv
+  156  sudo M.csv /start
+  157  git clone 
+  158  git clone https://github.com/robotnav/robotnav.git
+  159  CFLAGS = -g -Wall -static
+  160  pwv
+  161  psw
+  162  ip
+  163  ls
+  164  ping www.seznam.cz
+  165  ls
+  166  cd
+  167  cd ..
+  168  pwd
+  169  /Users/Documets
+  170  chmof
+  171  diff
+  172  --help
+  173  help
+  174  logout
+  175  sudo -h
+  176  sudo -A
+  177  sudi -h -A
+  178  sudo -askpas
+  179  sudo run Excel
+  180  start Excel
+  181  excel
+  182  open -a iTunes
+  183  open SAFARY
+  184  open Safari
+  185  open -a Safari
+  186  createinstallmedia
+  187  sudo createinstallmedia
+  188  createinstallmedia
+  189  createinstallmedia --volume volumepath
+  190  createinstallmedia --volume volumepath --applicationpath installerpath
+  191  sudo createinstallmedia --volume volumepath --applicationpath installerpath
+  192  createinstallmedia
+  193  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath "/Applications/Install OS X Yosemite.app"
+  194  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+  195  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/F_32G --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+  196  quit
+  197  q
+  198  diskutil
+  199  diskutil list
+  200  diskutil info
+  201  sudi tmutil
+  202  sudo tmutil
+  203  cat/proc/meminfo
+  204  meminfo
+  205  free -o -h
+  206  ls
+  207  cd
+  208  ls
+  209  ls -F
+  210  ls
+  211  cd desktop
+  212  ls
+  213  cd ..
+  214  cd Downloads
+  215  ls
+  216  ls ev3-print3rbot-master/
+  217  cd ..
+  218  Downloads/ev3-print3rbot-master robot@ev3dev:/home/robot
+  219  scp Downloads/ev3-print3rbot-master robot@ev3dev:/home/robot
+  220  scp Desktop/writer.py robot@ev3dev:/home/robot
+  221  ls
+  222  scp ~/Desktop/writer.py robot@ev3dev:/home/robot
+  223  scp robot@ev3dev:/home/robot ~/Desktop/writer.py
+  224  scp robot@ev3dev:/home/robot/writer.py ~/Desktop/writer.py
+  225  whoami
+  226  scp ~/Desktop/writer.py robot@ev3dev:/home/robot/writer.py
+  227  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  228  scp ~/Desktop/svg robot@192.168.2.2:/home/robot/svg
+  229  scp ~/Desktop/svg/ robot@192.168.2.2:/home/robot/svg/
+  230  scp -r ~/Desktop/svg robot@192.168.2.2:/home/robot/svg
+  231  scp -r ~/Desktop/images robot@192.168.2.2:/home/robot/images
+  232  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  233  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  234  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  235  scp ~/Desktop/index12.html pi@192.168.0.104:/var/www/html/index.html
+  236  scp ~/Desktop/index.html pi@192.168.0.104:/var/www/html/index12.html
+  237  ping 192.168.81.216
+  238  /Users/ondrejkral/anaconda2/bin/jupyter_mac.command ; exit;
+  239  ls
+  240  ssh pi@192.168.64.1
+  241  ssh pi@192.168.0.104
+  242  ssh pi@192.168.64.1
+  243  ssh pi@192.168.64.1
+  244  ssh pi@192.168.0.104
+  245  ssh pi@192.168.64.1
+  246  ssh pi@192.168.0.104
+  247  ssh pi@192.168.64.1
+  248  ssh pi@192.168.64.1
+  249  ssh pi@192.168.0.104
+  250  ssh pi@192.168.0.104
+  251  ssh pi@192.168.0.104
+  252  ssh pi@192.168.0.104
+  253  ssh pi@192.168.0.104
+  254  ssh pi@192.168.0.104
+  255  ssh pi@192.168.0.104
+  256  ssh pi@192.168.0.104
+  257  ssh pi@192.168.0.104
+  258  ssh pi@192.168.0.104
+  259  ifconfig
+  260  whoami
+  261  ssh pi@192.168.0.104
+  262  ssh-keygen -R hostname
+  263  ssh-keygen -R ondrejkral
+  264  whoami
+  265  ssh-keygen -R ondrejkral
+  266  cd ..
+  267  cd home/ondrejkral/.ssh/
+  268  ifconfig
+  269  RMNUD,DAD>
+  270  media: autoselect
+  271  status: active
+  272  p2p0: flags=8843<UP,BROADCAST,RUNNING,SIMPLEX,MULTICAST> mtu 2304
+  273  ether 06:76:ba:a4:72:c2 
+  274  ipconfig getifaddr en0
+  275  ssh-keygen -R hostname
+  276  ssh pi@192.168.0.104
+  277  ssh pi@192.168.0.104
+  278  ssh pi@192.168.81.216
+  279  ssh-keygen -f "/root/.ssh/known_hosts" -R 192.168.1.234
+  280  ssh pi@192.168.81.216
+  281  ssh pi@192.168.81.216
+  282  ssh pi@192.168.0.104
+  283  ssh pi@192.168.0.104
+  284  ssh pi@192.168.81.216
+  285  ping 192.168.81.216
+  286  ping 192.168.81.216
+  287  ping 192.168.81.216
+  288  ping 192.168.81.216
+  289  ssh pi@192.168.0.104
+  290  ssh pi@192.168.0.104
+  291  python
+  292  /opt/vc/bin/vcgencmd measure_temp
+  293  R
+  294  ping 192.168.81.216
+  295  ssh pi@192.168.81.216
+  296  ssh pi@192.0.0.103
+  297  ssh pi@192.168.0.103
+  298  ssh pi@192.168.0.103
+  299  ssh pi@192.168.0.104
+  300  ssh pi@192.168.0.104
+  301  ssh pi@192.168.0.104
+  302  ping 192.168.81.216
+  303  ping 192.168.81.216
+  304  ssh pi@192.168.0.104
+  305  ssh pi@176.114.250.195
+  306  ping 176.114.250.195
+  307  ping 176.114.250.195
+  308  ping 176.114.250.195
+  309  python
+  310  ping 176.114.250.195
+  311  R
+  312  ping 176.114.250.195
+  313  ping 176.114.250.195
+  314  ls -R
+  315  man cut
+  316  pwd
+  317  ls
+  318  head Results.csv
+  319  size Results.csv
+  320   Results.csv
+  321  head data_d.csv
+  322  cut -f 3 -d ,
+  323  cut data_d.csv -f 3 -d ,
+  324  cut -f 3 -d , data_d.csv
+  325  cut -f 3 -d : data_d.csv
+  326  history
+  327  history ls
+  328  history ping 192.168.81.216
+  329  ping 192.168.81.216
+  330  ping 192.168.81.216
+  331  ping 192.168.81.216
+  332  ssh 176.114.250.192
+  333  ssh 192.168.81.216
+  334  ping 176.114.250.192
+  335  ifconfig
+  336  ssh 192.168.0.104
+  337  ping 192.168.0.104
+  338  ping 176.114.250.192
+  339  ping 176.114.250.192 @pi
+  340  ping 176.114.250.192 pi@raspberypi
+  341  ssh pi@raspberrypi 
+  342  ssh pi@raspberrypi 176.114.250.195
+  343  ssh 176.114.250.195
+  344  ssh 176.114.250.195
+  345  ping 176.114.250.192 pi@raspberypi
+  346  ping 176.114.250.192
+  347  ping 192.168.0.104
+  348  ping 192.168.0.104
+  349  reboot
+  350  reboot
+  351  ping 192.168.0.104
+  352  ping 192.168.0.104
+  353  ping 192.168.0.104
+  354  ping 176.114.250.192
+  355  ifconfig
+  356  ping 176.114.250.192
+  357  ssh 176.114.250.192
+  358  ssh 192.168.0.104
+  359  ssh 192.168.0.104
+  360  ssh 192.168.0.104
+  361  ssh pi@192.168.0.104
+  362  ping 176.114.250.192
+  363  ls ~/ssh
+  364  ls ~/.ssh
+  365  ssh-keygen -t rsa -C "Raspberry Pi"
+  366  ls ~/.ssh
+  367  ssh dloar@192.168.0.104
+  368  R
+  369  y
+  370  ssh pi@192.168.0.104
+  371  ssh pi@192.168.0.104
+  372  ping 176.114.250.195 
+  373  ssh dlaor@176.114.250.195
+  374  ssh dloar@176.114.250.195
+  375  ping 176.114.250.195
+  376  ssh dloar@176.114.250.195
+  377  ssh dloar@176.114.250.195
+  378  ping 176.114.250.195
+  379  ping 176.114.250.195
+  380  ping 176.114.250.195
+  381  ping 176.114.250.195
+  382  ping 176.114.250.195
+  383  ping 176.114.250.195
+  384  ping 176.114.250.195
+  385  python
+  386  ping 176.114.250.195
+  387  df -h
+  388  cut --help
+  389  cut -f --help
+  390  cut -d,--help
+  391  ping 176.114.250.195
+  392  ping 176.114.250.195
+  393  ssh dloar@176.114.250.195
+  394  ssh dloar@176.114.250.195
+  395  ssh dloar@176.114.250.195
+  396  ssh dloar@176.114.250.195
+  397  ssh dloar@176.114.250.195
+  398  ssh pi@176.114.250.195
+  399  ssh pi@176.114.250.195
+  400  ssh pi@176.114.250.195
+  401  ssh pi@176.114.250.195
+  402  ssh pi@176.114.250.195
+  403  ssh alllp@176.114.250.195
+  404  ssh root@176.114.250.195
+  405  ssh alllp@176.114.250.195
+  406  ssh pi@192.168.0.104
+  407  ssh dloar@176.114.250.195
+  408  ssh pi@192.168.0.104
+  409  ssh dloar@176.114.250.195
+  410  ping 176.114.250.195
+  411  ifconfig
+  412  ping 176.114.250.195
+  413  ssh dloar@176.114.250.195
+  414  ssh dloar@176.114.250.195
+  415  ssh dloar@176.114.250.195
+  416  ssh dloar@176.114.250.195
+  417  ssh dloar@176.114.250.195
+  418  ssh dloar@176.114.250.195
+  419  ssh dloar@176.114.250.195
+  420  ssh dloar@176.114.250.195
+  421  ssh dloar@176.114.250.195
+  422  python
+  423  R
+  424  df
+  425  df -f
+  426  df -h
+  427  ssh dloar@176.114.250.195
+  428  ssh dloar@176.114.250.195
+  429  ssh dloar@176.114.250.195
+  430  ssh dloar@176.114.250.195
+  431  ssh dloar@176.114.250.195
+  432  ssh dloar@176.114.250.195
+  433  ssh dloar@176.114.250.195
+  434  ssh dloar@176.114.250.195
+  435  ssh dloar@176.114.250.195
+  436  ssh dloar@176.114.250.195
+  437  ssh dloar@176.114.250.195
+  438  ssh dloar@176.114.250.195
+  439  ssh dloar@176.114.250.195
+  440  ssh dloar@176.114.250.195
+  441  ssh dloar@176.114.250.195
+  442  ssh dloar@176.114.250.195
+  443  ssh dloar@176.114.250.195
+  444  ssh dloar@176.114.250.195
+  445  ssh dloar@176.114.250.195
+  446  ssh dloar@176.114.250.195
+  447  ssh dloar@176.114.250.195
+  448  ssh dloar@176.114.250.195
+  449  ssh dloar@176.114.250.195
+  450  ssh dloar@176.114.250.195
+  451  ssh dloar@176.114.250.195
+  452  ssh dloar@176.114.250.195
+  453  ssh dloar@176.114.250.195
+  454  scp dloar@192.168.0.104:/var/www/html/index.html index.html
+  455  ls
+  456  history
+  457  history -h
+  458  history 452
+Ondrejs-MacBook-Air:~ ondrejkral$ !453
+ssh dloar@176.114.250.195
+dloar@176.114.250.195's password: 
+Linux raspberrypi 4.9.41-v7+ #1023 SMP Tue Aug 8 16:00:15 BST 2017 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Tue Feb 27 18:55:53 2018 from 185.47.220.141
+-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+dloar@raspberrypi:~ $ ls
+GitDir  newdirectory  ship
+dloar@raspberrypi:~ $ packet_write_wait: Connection to 176.114.250.195 port 22: Broken pipe
+Ondrejs-MacBook-Air:~ ondrejkral$ 
+  [Restored 4 Mar 2018 at 17:31:44]
+Last login: Sun Mar  4 17:31:35 on console
+Ondrejs-MacBook-Air:~ ondrejkral$ scp dloar@192.168.0.104:/var/www/html/index.html index.html
+^[[B^[[A^COndrejs-MacBook-Air:~ ondrejkral$ ls
+Applications				Music					Shapiro_akut04.xlsx			hack1.py				robotnav
+Casovky.R				Pictures				Shapiro_akut05.xlsx			hw1_data.csv				rprog-016_Basic_Building_Blocks.txt
+DU7_vys.xlsx				Public					Shapiro_akut06.xlsx			iCloud Drive (Archive)			rprog-016_Missing_Values.txt
+Desktop					Python					Untitled.ipynb				index.html				rprog-016_Sequences_of_Numbers.txt
+Documents				README.md				Vyber1.png				java.log.37044				rprog-016_Vectors.txt
+Documets				Results.csv				Vyber2.png				matlab_crash_dump.37044-1		server_beg_S_1.R
+Domunts.txt				Results2.csv				Vyber3.png				myscatterplot.pdf			test.excelfile.xlsx
+Downloads				Rplot.png				anaconda2				nltk_data				vyp_fin_11cv.csv
+KK.xlsx					Shapiro.xlsx				beg_w_S_1.R				res.csv					workspace
+Library					Shapiro_akut.xlsx			clock.sh				res.xlsx
+Logs					Shapiro_akut01.xlsx			data.csv				res_exlt.xlsx
+M.csv					Shapiro_akut02.xlsx			data_d.csv				res_mult.csv
+Movies					Shapiro_akut03.xlsx			database.sqlite				res_multi.csv
+Ondrejs-MacBook-Air:~ ondrejkral$ history
+    1  /Volumes/FreeAgent\ Drive/Obrázky/Unknown ; exit;
+    2  /Users/ondrejkral/Downloads/mac64/matlab_R2012b_maci64_installer/install ; exit;
+    3  /Volumes/MATHWORKS_R2011B/install ; exit;
+    4  /Users/ondrejkral/Downloads/MacVim-snapshot-74/mvim ; exit;
+    5  python
+    6  python
+    7  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435438.099.py.command ; exit;
+    8  ls
+    9  cd Documents
+   10  first
+   11  first.py
+   12  Python
+   13  ls
+   14  Documents
+   15  Python1
+   16  Desktop
+   17  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435833.846.py.command ; exit;
+   18  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435952.647.py.command ; exit;
+   19  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436007.255.py.command ; exit;
+   20  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477435855.356.py.command ; exit;
+   21  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436066.789.py.command ; exit;
+   22  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436083.180.py.command ; exit;
+   23  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436110.428.py.command ; exit;
+   24  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477436172.213.py.command ; exit;
+   25  Python
+   26  /var/folders/xy/0wvhpkg10mx2y0zg1zm5ws080000gn/T/first-477522724.162.py.command ; exit;
+   27  Python
+   28  DESKTOP
+   29  Desktop
+   30  Ptthon
+   31  X
+   32  conda install as seaborn
+   33  pip install
+   34  pip install seaborn
+   35  conda install seaborn
+   36  conda install panda
+   37  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   38  /Users/ondrejkral/anaconda/bin/pip ; exit;
+   39  pip instal jupyter
+   40  pip install jupyter
+   41  conda upgrade jupyter
+   42  run jupyter
+   43  jupyer notebook
+   44  cd/Ondra
+   45  jupyer notebook
+   46  ssh root@127.0.0.1 -p 2222;
+   47  git init
+   48  notepad explore.exe
+   49  note explore.exe
+   50  git init
+   51  git log
+   52  word explore.exe
+   53  notes explore.exe
+   54  sudo pip install cvxopt
+   55  q
+   56  quit
+   57  sudo -q
+   58  sudo list
+   59  sudo -list
+   60  sudo -u
+   61  sudo --u
+   62  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   63  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   64  /Users/ondrejkral/anaconda/pkgs/anaconda-client-1.2.2-py27_0/bin/anaconda ; exit;
+   65  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   66  install requests
+   67  /Users/ondrejkral/anaconda/pkgs/anaconda-client-1.2.2-py27_0/bin/anaconda ; exit;
+   68  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   69  /Applications/Python\ 3.5/Update\ Shell\ Profile.command ; exit;
+   70  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   71  bash Anaconda2-4.2.0-MacOSX-x86_64.sh
+   72   Anaconda2-4.2.0-MacOSX-x86_64.sh
+   73  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   74  Anaconda2-4.2.0-MacOSX-x86_64.sh
+   75  /Users/ondrejkral/anaconda/bin/anaconda 
+   76  install requests
+   77  bash
+   78  port install tor
+   79  sudo port install tor
+   80  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   81  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   82  pip install html
+   83  pip install stackoverflow
+   84  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   85  ipconfig
+   86  list
+   87  config
+   88  list
+   89  ls
+   90  ip
+   91  quit() ls
+   92  list
+   93  /Users/ondrejkral/anaconda/bin/anaconda ; exit;
+   94  conda install mysqldb
+   95  conda install mysqldb-python
+   96  conda install mysql-python
+   97  pip install MySQL-python
+   98  pip install -update
+   99  pip --install --upgrade -E
+  100  pip list
+  101  conda env export -n <env-name> > environment.yml
+  102  conda env
+  103  pip install -upgarde pip
+  104  python -m install --upgrade pip
+  105  pip install -upgarde pippi
+  106  pip install
+  107  q() pip install -upgrade pip
+  108  pip install -upgrade pip
+  109  pip install mySQLdb
+  110  pip install -upgrade time
+  111  pip install -upgrade boto
+  112  pip install  boto
+  113  pip install boto
+  114  pip install --upgrade pip
+  115  pip install time
+  116  conda install mysql-connector-python
+  117  conda install bcrypt
+  118  q()
+  119  /Users/ondrejkral/.anaconda/navigator/a.tool ; exit;
+  120  defaults write com.bundle.identifier WebKitDeveloperExtras -bool true
+  121  start Rstudio
+  122  help
+  123  times
+  124  date
+  125  true
+  126  type
+  127  set
+  128  export
+  129  help
+  130  ps
+  131  ps
+  132  ps
+  133  ping www.seznam.cz
+  134  history
+  135  ping www.seznam.cz
+  136  date
+  137  echo
+  138  exho date
+  139  help
+  140  history
+  141  pico
+  142  sudo 
+  143  sudo -h
+  144  ls
+  145  Vyber1.png
+  146  CD DONWLOAD
+  147  CD..
+  148  cd..
+  149  pwd
+  150  chmod
+  151  chmod -R
+  152  cl
+  153  ls
+  154  M.csv
+  155  start M.csv
+  156  sudo M.csv /start
+  157  git clone 
+  158  git clone https://github.com/robotnav/robotnav.git
+  159  CFLAGS = -g -Wall -static
+  160  pwv
+  161  psw
+  162  ip
+  163  ls
+  164  ping www.seznam.cz
+  165  ls
+  166  cd
+  167  cd ..
+  168  pwd
+  169  /Users/Documets
+  170  chmof
+  171  diff
+  172  --help
+  173  help
+  174  logout
+  175  sudo -h
+  176  sudo -A
+  177  sudi -h -A
+  178  sudo -askpas
+  179  sudo run Excel
+  180  start Excel
+  181  excel
+  182  open -a iTunes
+  183  open SAFARY
+  184  open Safari
+  185  open -a Safari
+  186  createinstallmedia
+  187  sudo createinstallmedia
+  188  createinstallmedia
+  189  createinstallmedia --volume volumepath
+  190  createinstallmedia --volume volumepath --applicationpath installerpath
+  191  sudo createinstallmedia --volume volumepath --applicationpath installerpath
+  192  createinstallmedia
+  193  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath "/Applications/Install OS X Yosemite.app"
+  194  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+  195  sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/F_32G --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+  196  quit
+  197  q
+  198  diskutil
+  199  diskutil list
+  200  diskutil info
+  201  sudi tmutil
+  202  sudo tmutil
+  203  cat/proc/meminfo
+  204  meminfo
+  205  free -o -h
+  206  ls
+  207  cd
+  208  ls
+  209  ls -F
+  210  ls
+  211  cd desktop
+  212  ls
+  213  cd ..
+  214  cd Downloads
+  215  ls
+  216  ls ev3-print3rbot-master/
+  217  cd ..
+  218  Downloads/ev3-print3rbot-master robot@ev3dev:/home/robot
+  219  scp Downloads/ev3-print3rbot-master robot@ev3dev:/home/robot
+  220  scp Desktop/writer.py robot@ev3dev:/home/robot
+  221  ls
+  222  scp ~/Desktop/writer.py robot@ev3dev:/home/robot
+  223  scp robot@ev3dev:/home/robot ~/Desktop/writer.py
+  224  scp robot@ev3dev:/home/robot/writer.py ~/Desktop/writer.py
+  225  whoami
+  226  scp ~/Desktop/writer.py robot@ev3dev:/home/robot/writer.py
+  227  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  228  scp ~/Desktop/svg robot@192.168.2.2:/home/robot/svg
+  229  scp ~/Desktop/svg/ robot@192.168.2.2:/home/robot/svg/
+  230  scp -r ~/Desktop/svg robot@192.168.2.2:/home/robot/svg
+  231  scp -r ~/Desktop/images robot@192.168.2.2:/home/robot/images
+  232  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  233  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  234  scp ~/Desktop/writer.py robot@192.168.2.2:/home/robot/writer.py
+  235  scp ~/Desktop/index12.html pi@192.168.0.104:/var/www/html/index.html
+  236  scp ~/Desktop/index.html pi@192.168.0.104:/var/www/html/index12.html
+  237  ping 192.168.81.216
+  238  /Users/ondrejkral/anaconda2/bin/jupyter_mac.command ; exit;
+  239  ls
+  240  ssh pi@192.168.64.1
+  241  ssh pi@192.168.0.104
+  242  ssh pi@192.168.64.1
+  243  ssh pi@192.168.64.1
+  244  ssh pi@192.168.0.104
+  245  ssh pi@192.168.64.1
+  246  ssh pi@192.168.0.104
+  247  ssh pi@192.168.64.1
+  248  ssh pi@192.168.64.1
+  249  ssh pi@192.168.0.104
+  250  ssh pi@192.168.0.104
+  251  ssh pi@192.168.0.104
+  252  ssh pi@192.168.0.104
+  253  ssh pi@192.168.0.104
+  254  ssh pi@192.168.0.104
+  255  ssh pi@192.168.0.104
+  256  ssh pi@192.168.0.104
+  257  ssh pi@192.168.0.104
+  258  ssh pi@192.168.0.104
+  259  ifconfig
+  260  whoami
+  261  ssh pi@192.168.0.104
+  262  ssh-keygen -R hostname
+  263  ssh-keygen -R ondrejkral
+  264  whoami
+  265  ssh-keygen -R ondrejkral
+  266  cd ..
+  267  cd home/ondrejkral/.ssh/
+  268  ifconfig
+  269  RMNUD,DAD>
+  270  media: autoselect
+  271  status: active
+  272  p2p0: flags=8843<UP,BROADCAST,RUNNING,SIMPLEX,MULTICAST> mtu 2304
+  273  ether 06:76:ba:a4:72:c2 
+  274  ipconfig getifaddr en0
+  275  ssh-keygen -R hostname
+  276  ssh pi@192.168.0.104
+  277  ssh pi@192.168.0.104
+  278  ssh pi@192.168.81.216
+  279  ssh-keygen -f "/root/.ssh/known_hosts" -R 192.168.1.234
+  280  ssh pi@192.168.81.216
+  281  ssh pi@192.168.81.216
+  282  ssh pi@192.168.0.104
+  283  ssh pi@192.168.0.104
+  284  ssh pi@192.168.81.216
+  285  ping 192.168.81.216
+  286  ping 192.168.81.216
+  287  ping 192.168.81.216
+  288  ping 192.168.81.216
+  289  ssh pi@192.168.0.104
+  290  ssh pi@192.168.0.104
+  291  python
+  292  /opt/vc/bin/vcgencmd measure_temp
+  293  R
+  294  ping 192.168.81.216
+  295  ssh pi@192.168.81.216
+  296  ssh pi@192.0.0.103
+  297  ssh pi@192.168.0.103
+  298  ssh pi@192.168.0.103
+  299  ssh pi@192.168.0.104
+  300  ssh pi@192.168.0.104
+  301  ssh pi@192.168.0.104
+  302  ping 192.168.81.216
+  303  ping 192.168.81.216
+  304  ssh pi@192.168.0.104
+  305  ssh pi@176.114.250.195
+  306  ping 176.114.250.195
+  307  ping 176.114.250.195
+  308  ping 176.114.250.195
+  309  python
+  310  ping 176.114.250.195
+  311  R
+  312  ping 176.114.250.195
+  313  ping 176.114.250.195
+  314  ls -R
+  315  man cut
+  316  pwd
+  317  ls
+  318  head Results.csv
+  319  size Results.csv
+  320   Results.csv
+  321  head data_d.csv
+  322  cut -f 3 -d ,
+  323  cut data_d.csv -f 3 -d ,
+  324  cut -f 3 -d , data_d.csv
+  325  cut -f 3 -d : data_d.csv
+  326  history
+  327  history ls
+  328  history ping 192.168.81.216
+  329  ping 192.168.81.216
+  330  ping 192.168.81.216
+  331  ping 192.168.81.216
+  332  ssh 176.114.250.192
+  333  ssh 192.168.81.216
+  334  ping 176.114.250.192
+  335  ifconfig
+  336  ssh 192.168.0.104
+  337  ping 192.168.0.104
+  338  ping 176.114.250.192
+  339  ping 176.114.250.192 @pi
+  340  ping 176.114.250.192 pi@raspberypi
+  341  ssh pi@raspberrypi 
+  342  ssh pi@raspberrypi 176.114.250.195
+  343  ssh 176.114.250.195
+  344  ssh 176.114.250.195
+  345  ping 176.114.250.192 pi@raspberypi
+  346  ping 176.114.250.192
+  347  ping 192.168.0.104
+  348  ping 192.168.0.104
+  349  reboot
+  350  reboot
+  351  ping 192.168.0.104
+  352  ping 192.168.0.104
+  353  ping 192.168.0.104
+  354  ping 176.114.250.192
+  355  ifconfig
+  356  ping 176.114.250.192
+  357  ssh 176.114.250.192
+  358  ssh 192.168.0.104
+  359  ssh 192.168.0.104
+  360  ssh 192.168.0.104
+  361  ssh pi@192.168.0.104
+  362  ping 176.114.250.192
+  363  ls ~/ssh
+  364  ls ~/.ssh
+  365  ssh-keygen -t rsa -C "Raspberry Pi"
+  366  ls ~/.ssh
+  367  ssh dloar@192.168.0.104
+  368  R
+  369  y
+  370  ssh pi@192.168.0.104
+  371  ssh pi@192.168.0.104
+  372  ping 176.114.250.195 
+  373  ssh dlaor@176.114.250.195
+  374  ssh dloar@176.114.250.195
+  375  ping 176.114.250.195
+  376  ssh dloar@176.114.250.195
+  377  ssh dloar@176.114.250.195
+  378  ping 176.114.250.195
+  379  ping 176.114.250.195
+  380  ping 176.114.250.195
+  381  ping 176.114.250.195
+  382  ping 176.114.250.195
+  383  ping 176.114.250.195
+  384  ping 176.114.250.195
+  385  python
+  386  ping 176.114.250.195
+  387  df -h
+  388  cut --help
+  389  cut -f --help
+  390  cut -d,--help
+  391  ping 176.114.250.195
+  392  ping 176.114.250.195
+  393  ssh dloar@176.114.250.195
+  394  ssh dloar@176.114.250.195
+  395  ssh dloar@176.114.250.195
+  396  ssh dloar@176.114.250.195
+  397  ssh dloar@176.114.250.195
+  398  ssh pi@176.114.250.195
+  399  ssh pi@176.114.250.195
+  400  ssh pi@176.114.250.195
+  401  ssh pi@176.114.250.195
+  402  ssh pi@176.114.250.195
+  403  ssh alllp@176.114.250.195
+  404  ssh root@176.114.250.195
+  405  ssh alllp@176.114.250.195
+  406  ssh pi@192.168.0.104
+  407  ssh dloar@176.114.250.195
+  408  ssh pi@192.168.0.104
+  409  ssh dloar@176.114.250.195
+  410  ping 176.114.250.195
+  411  ifconfig
+  412  ping 176.114.250.195
+  413  ssh dloar@176.114.250.195
+  414  ssh dloar@176.114.250.195
+  415  ssh dloar@176.114.250.195
+  416  ssh dloar@176.114.250.195
+  417  ssh dloar@176.114.250.195
+  418  ssh dloar@176.114.250.195
+  419  ssh dloar@176.114.250.195
+  420  ssh dloar@176.114.250.195
+  421  ssh dloar@176.114.250.195
+  422  python
+  423  R
+  424  df
+  425  df -f
+  426  df -h
+  427  ssh dloar@176.114.250.195
+  428  ssh dloar@176.114.250.195
+  429  ssh dloar@176.114.250.195
+  430  ssh dloar@176.114.250.195
+  431  ssh dloar@176.114.250.195
+  432  ssh dloar@176.114.250.195
+  433  ssh dloar@176.114.250.195
+  434  ssh dloar@176.114.250.195
+  435  ssh dloar@176.114.250.195
+  436  ssh dloar@176.114.250.195
+  437  ssh dloar@176.114.250.195
+  438  ssh dloar@176.114.250.195
+  439  ssh dloar@176.114.250.195
+  440  ssh dloar@176.114.250.195
+  441  ssh dloar@176.114.250.195
+  442  ssh dloar@176.114.250.195
+  443  ssh dloar@176.114.250.195
+  444  ssh dloar@176.114.250.195
+  445  ssh dloar@176.114.250.195
+  446  ssh dloar@176.114.250.195
+  447  ssh dloar@176.114.250.195
+  448  ssh dloar@176.114.250.195
+  449  ssh dloar@176.114.250.195
+  450  ssh dloar@176.114.250.195
+  451  ssh dloar@176.114.250.195
+  452  ssh dloar@176.114.250.195
+  453  ssh dloar@176.114.250.195
+  454  scp dloar@192.168.0.104:/var/www/html/index.html index.html
+  455  scp dloar@192.168.0.104:/var/www/html/index.html index.html
+  456  ls
+  457  history
+Ondrejs-MacBook-Air:~ ondrejkral$ !429
+ssh dloar@176.114.250.195
+ssh_dispatch_run_fatal: Connection to 176.114.250.195 port 22: Operation timed out
+Ondrejs-MacBook-Air:~ ondrejkral$ !442
+ssh dloar@176.114.250.195
+dloar@176.114.250.195's password: 
+Linux raspberrypi 4.9.41-v7+ #1023 SMP Tue Aug 8 16:00:15 BST 2017 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Wed Feb 28 17:02:06 2018 from 176.114.250.195
+-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+dloar@raspberrypi:~ $ ls
+GitDir  newdirectory  ship
+dloar@raspberrypi:~ $ cd GitDir
+dloar@raspberrypi:~/GitDir $ git log
+commit d10fe3b0d53d01060bccdd3b3144ddba04aaf121
+Author: Dloar <xkrao11@gmail.com>
+Date:   Thu Feb 15 19:26:35 2018 +0000
+
+    New functions.
+
+commit f2705cadfbd710446ab91d9c68e8b26bd9f1478c
+Author: Dloar <xkrao11@gmail.com>
+Date:   Thu Feb 15 19:23:38 2018 +0000
+
+    adding Readme
+dloar@raspberrypi:~/GitDir $ git pull
+fatal: No remote repository specified.  Please, specify either a URL or a
+remote name from which new revisions should be fetched.
+dloar@raspberrypi:~/GitDir $ ls     
+Playground  README.md  quidditch-rules.json  snitch-sniffer.py
+dloar@raspberrypi:~/GitDir $ cd Playground/
+dloar@raspberrypi:~/GitDir/Playground $ git clone https://github.com/Dloar/Playground.git
+Cloning into 'Playground'...
+remote: Counting objects: 30, done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 30 (delta 0), reused 2 (delta 0), pack-reused 27
+Unpacking objects: 100% (30/30), done.
+dloar@raspberrypi:~/GitDir/Playground $ git log
+commit 4a875d557eca0c02c8214985f942ffcdf73c2215
+Author: Ondrej Kral <ondrej_kral@hotmail.com>
+Date:   Tue Feb 27 21:04:47 2018 +0100
+
+    New commit.
+
+commit fbd02cff6fbb08981e38bdf88863b384aebbd4d3
+Author: ondrej-kral <ondrej_kral@hotmail.com>
+Date:   Wed May 25 16:56:46 2016 +0200
+
+    no idea
+
+commit 31af3cd3bf3d8036975965790a50ab5f3a235316
+Merge: e717f07 b1f81c1
+Author: Dloar <ondrej_kral@hotmail.com>
+Date:   Thu May 12 21:38:53 2016 +0200
+
+    Merge pull request #2 from Dloar/Non_live
+    
+    Add files via upload
+
+commit b1f81c137c88b1056723980bfb0c462f88999833
+Author: Dloar <ondrej_kral@hotmail.com>
+Date:   Thu May 12 21:38:29 2016 +0200
+
+    Add files via upload
+
+commit e717f070cae5cdd748a40a5607a7db022bf3fe6d
+Merge: d21df09 ac0cf91
+Author: Dloar <ondrej_kral@hotmail.com>
+Date:   Thu May 12 20:52:29 2016 +0200
+
+    Merge pull request #1 from Dloar/tempo
+    
+    First_pull
+
+commit ac0cf91f45fcd7425a8d6d7a86d7c2340957d596
+Author: Dloar <ondrej_kral@hotmail.com>
+Date:   Thu May 12 20:38:43 2016 +0200
+
+    Add files via upload
+
+commit d21df09dca415235c271e6b6e2996c034448f4e9
+Author: Dloar <ondrej_kral@hotmail.com>
+Date:   Thu May 12 20:21:44 2016 +0200
+
+    Initial commit
+dloar@raspberrypi:~/GitDir/Playground $ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Playground/
+
+nothing added to commit but untracked files present (use "git add" to track)
+dloar@raspberrypi:~/GitDir/Playground $ ls
+AcfForSeveralCompanies.R  Bayes_Regrese_Crimes.R  Parallel.R  Playground  README.md  StockData.py  VAR_Reinsurance.R  VAR_diver.R  d_trees.R  logistic regresion.R  ondrej_kral_du3.R  uvod_do_Rka.R
+dloar@raspberrypi:~/GitDir/Playground $ rm Playground/
+rm: cannot remove 'Playground/': Is a directory
+dloar@raspberrypi:~/GitDir/Playground $ cd ..
+dloar@raspberrypi:~/GitDir $ git clone https://github.com/Dloar/Playground.git
+fatal: destination path 'Playground' already exists and is not an empty directory.
+dloar@raspberrypi:~/GitDir $ pip install dash==0.21.0  # The core dash backend
+Collecting dash==0.21.0
+  Downloading dash-0.21.0.tar.gz
+Collecting Flask>=0.12 (from dash==0.21.0)
+  Downloading Flask-0.12.2-py2.py3-none-any.whl (83kB)
+    100% |################################| 92kB 535kB/s 
+Collecting flask-compress (from dash==0.21.0)
+  Downloading Flask-Compress-1.4.0.tar.gz
+Collecting plotly (from dash==0.21.0)
+  Downloading plotly-2.4.1.tar.gz (24.9MB)
+    99% |############################### | 24.9MB 459kB/s eta 0:00:01Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 215, in main
+    status = self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 353, in run
+    wb.build(autobuilding=True)
+  File "/usr/lib/python2.7/dist-packages/pip/wheel.py", line 749, in build
+    self.requirement_set.prepare_files(self.finder)
+  File "/usr/lib/python2.7/dist-packages/pip/req/req_set.py", line 380, in prepare_files
+    ignore_dependencies=self.ignore_dependencies))
+  File "/usr/lib/python2.7/dist-packages/pip/req/req_set.py", line 620, in _prepare_file
+    session=self.session, hashes=hashes)
+  File "/usr/lib/python2.7/dist-packages/pip/download.py", line 821, in unpack_url
+    hashes=hashes
+  File "/usr/lib/python2.7/dist-packages/pip/download.py", line 659, in unpack_http_url
+    hashes)
+  File "/usr/lib/python2.7/dist-packages/pip/download.py", line 882, in _download_http_url
+    _download_url(resp, link, content_file, hashes)
+  File "/usr/lib/python2.7/dist-packages/pip/download.py", line 603, in _download_url
+    hashes.check_against_chunks(downloaded_chunks)
+  File "/usr/lib/python2.7/dist-packages/pip/utils/hashes.py", line 46, in check_against_chunks
+    for chunk in chunks:
+  File "/usr/lib/python2.7/dist-packages/pip/download.py", line 571, in written_chunks
+    for chunk in chunks:
+  File "/usr/lib/python2.7/dist-packages/pip/utils/ui.py", line 139, in iter
+    for x in it:
+  File "/usr/lib/python2.7/dist-packages/pip/download.py", line 560, in resp_read
+    decode_content=False):
+  File "/usr/share/python-wheels/urllib3-1.19.1-py2.py3-none-any.whl/urllib3/response.py", line 432, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "/usr/share/python-wheels/urllib3-1.19.1-py2.py3-none-any.whl/urllib3/response.py", line 380, in read
+    data = self._fp.read(amt)
+  File "/usr/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl/cachecontrol/filewrapper.py", line 63, in read
+    self._close()
+  File "/usr/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl/cachecontrol/filewrapper.py", line 50, in _close
+    self.__callback(self.__buf.getvalue())
+  File "/usr/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl/cachecontrol/controller.py", line 275, in cache_response
+    self.serializer.dumps(request, response, body=body),
+  File "/usr/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl/cachecontrol/serialize.py", line 87, in dumps
+    ).encode("utf8"),
+MemoryError
+dloar@raspberrypi:~/GitDir $ pip install dash-renderer==0.11.3  # The dash front-end
+Collecting dash-renderer==0.11.3
+  Downloading dash_renderer-0.11.3.tar.gz (126kB)
+    100% |################################| 133kB 567kB/s 
+Building wheels for collected packages: dash-renderer
+  Running setup.py bdist_wheel for dash-renderer ... done
+  Stored in directory: /home/dloar/.cache/pip/wheels/2c/01/03/dd2f925c8a233c940b54788a26cf833bba2d89f5e5a80cbabd
+Successfully built dash-renderer
+Installing collected packages: dash-renderer
+Successfully installed dash-renderer-0.11.3
+dloar@raspberrypi:~/GitDir $ pip install dash-html-components==0.9.0  # HTML components
+Collecting dash-html-components==0.9.0
+  Downloading dash_html_components-0.9.0.tar.gz (45kB)
+    100% |################################| 51kB 136kB/s 
+Collecting dash (from dash-html-components==0.9.0)
+  Using cached dash-0.21.0.tar.gz
+Collecting Flask>=0.12 (from dash->dash-html-components==0.9.0)
+  Using cached Flask-0.12.2-py2.py3-none-any.whl
+Collecting flask-compress (from dash->dash-html-components==0.9.0)
+  Using cached Flask-Compress-1.4.0.tar.gz
+Collecting plotly (from dash->dash-html-components==0.9.0)
+  Downloading plotly-2.4.1.tar.gz (24.9MB)
+    100% |################################| 24.9MB 9.0kB/s 
+Collecting itsdangerous>=0.21 (from Flask>=0.12->dash->dash-html-components==0.9.0)
+Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 215, in main
+    status = self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 353, in run
+    wb.build(autobuilding=True)
+  File "/usr/lib/python2.7/dist-packages/pip/wheel.py", line 749, in build
+    self.requirement_set.prepare_files(self.finder)
+  File "/usr/lib/python2.7/dist-packages/pip/req/req_set.py", line 380, in prepare_files
+    ignore_dependencies=self.ignore_dependencies))
+  File "/usr/lib/python2.7/dist-packages/pip/req/req_set.py", line 554, in _prepare_file
+    require_hashes
+  File "/usr/lib/python2.7/dist-packages/pip/req/req_install.py", line 278, in populate_link
+    self.link = finder.find_requirement(self, upgrade)
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 465, in find_requirement
+    all_candidates = self.find_all_candidates(req.name)
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 423, in find_all_candidates
+    for page in self._get_pages(url_locations, project_name):
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 568, in _get_pages
+    page = self._get_page(location)
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 683, in _get_page
+    return HTMLPage.get_page(link, session=self.session)
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 792, in get_page
+    "Cache-Control": "max-age=600",
+  File "/usr/share/python-wheels/requests-2.12.4-py2.py3-none-any.whl/requests/sessions.py", line 501, in get
+    return self.request('GET', url, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/pip/download.py", line 386, in request
+    return super(PipSession, self).request(method, url, *args, **kwargs)
+  File "/usr/share/python-wheels/requests-2.12.4-py2.py3-none-any.whl/requests/sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/share/python-wheels/requests-2.12.4-py2.py3-none-any.whl/requests/sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl/cachecontrol/adapter.py", line 47, in send
+    resp = super(CacheControlAdapter, self).send(request, **kw)
+  File "/usr/share/python-wheels/requests-2.12.4-py2.py3-none-any.whl/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/usr/share/python-wheels/urllib3-1.19.1-py2.py3-none-any.whl/urllib3/connectionpool.py", line 643, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/share/python-wheels/urllib3-1.19.1-py2.py3-none-any.whl/urllib3/util/retry.py", line 315, in increment
+    total -= 1
+TypeError: unsupported operand type(s) for -=: 'Retry' and 'int'
+dloar@raspberrypi:~/GitDir $ pip install dash-core-components==0.20.2  # Supercharged components
+Collecting dash-core-components==0.20.2
+Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 215, in main
+    status = self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 353, in run
+    wb.build(autobuilding=True)
+  File "/usr/lib/python2.7/dist-packages/pip/wheel.py", line 749, in build
+    self.requirement_set.prepare_files(self.finder)
+  File "/usr/lib/python2.7/dist-packages/pip/req/req_set.py", line 380, in prepare_files
+    ignore_dependencies=self.ignore_dependencies))
+  File "/usr/lib/python2.7/dist-packages/pip/req/req_set.py", line 554, in _prepare_file
+    require_hashes
+  File "/usr/lib/python2.7/dist-packages/pip/req/req_install.py", line 278, in populate_link
+    self.link = finder.find_requirement(self, upgrade)
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 465, in find_requirement
+    all_candidates = self.find_all_candidates(req.name)
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 423, in find_all_candidates
+    for page in self._get_pages(url_locations, project_name):
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 568, in _get_pages
+    page = self._get_page(location)
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 683, in _get_page
+    return HTMLPage.get_page(link, session=self.session)
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 792, in get_page
+    "Cache-Control": "max-age=600",
+  File "/usr/share/python-wheels/requests-2.12.4-py2.py3-none-any.whl/requests/sessions.py", line 501, in get
+    return self.request('GET', url, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/pip/download.py", line 386, in request
+    return super(PipSession, self).request(method, url, *args, **kwargs)
+  File "/usr/share/python-wheels/requests-2.12.4-py2.py3-none-any.whl/requests/sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/share/python-wheels/requests-2.12.4-py2.py3-none-any.whl/requests/sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl/cachecontrol/adapter.py", line 47, in send
+    resp = super(CacheControlAdapter, self).send(request, **kw)
+  File "/usr/share/python-wheels/requests-2.12.4-py2.py3-none-any.whl/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/usr/share/python-wheels/urllib3-1.19.1-py2.py3-none-any.whl/urllib3/connectionpool.py", line 643, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/share/python-wheels/urllib3-1.19.1-py2.py3-none-any.whl/urllib3/util/retry.py", line 315, in increment
+    total -= 1
+TypeError: unsupported operand type(s) for -=: 'Retry' and 'int'
+dloar@raspberrypi:~/GitDir $ pip install plotly --upgrade  # Plotly graphing library used in examples
+Collecting plotly
+  Using cached plotly-2.4.1.tar.gz
+Collecting decorator>=4.0.6 (from plotly)
+  Downloading decorator-4.2.1-py2.py3-none-any.whl
+Collecting nbformat>=4.2 (from plotly)
+  Downloading nbformat-4.4.0-py2.py3-none-any.whl (155kB)
+    100% |################################| 163kB 654kB/s 
+Collecting pytz (from plotly)
+  Using cached pytz-2018.3-py2.py3-none-any.whl
+Collecting requests (from plotly)
+  Downloading requests-2.18.4-py2.py3-none-any.whl (88kB)
+    100% |################################| 92kB 548kB/s 
+Collecting six (from plotly)
+  Using cached six-1.11.0-py2.py3-none-any.whl
+Collecting traitlets>=4.1 (from nbformat>=4.2->plotly)
+  Downloading traitlets-4.3.2-py2.py3-none-any.whl (74kB)
+    100% |################################| 81kB 564kB/s 
+Collecting jupyter-core (from nbformat>=4.2->plotly)
+  Downloading jupyter_core-4.4.0-py2.py3-none-any.whl (126kB)
+    100% |################################| 133kB 626kB/s 
+Collecting ipython-genutils (from nbformat>=4.2->plotly)
+  Downloading ipython_genutils-0.2.0-py2.py3-none-any.whl
+Collecting jsonschema!=2.5.0,>=2.4 (from nbformat>=4.2->plotly)
+  Downloading jsonschema-2.6.0-py2.py3-none-any.whl
+Collecting urllib3<1.23,>=1.21.1 (from requests->plotly)
+  Downloading urllib3-1.22-py2.py3-none-any.whl (132kB)
+    100% |################################| 133kB 502kB/s 
+Collecting idna<2.7,>=2.5 (from requests->plotly)
+  Downloading idna-2.6-py2.py3-none-any.whl (56kB)
+    100% |################################| 61kB 727kB/s 
+Collecting chardet<3.1.0,>=3.0.2 (from requests->plotly)
+  Downloading chardet-3.0.4-py2.py3-none-any.whl (133kB)
+    100% |################################| 143kB 369kB/s 
+Collecting certifi>=2017.4.17 (from requests->plotly)
+  Downloading certifi-2018.1.18-py2.py3-none-any.whl (151kB)
+    100% |################################| 153kB 509kB/s 
+Collecting enum34; python_version == "2.7" (from traitlets>=4.1->nbformat>=4.2->plotly)
+  Downloading enum34-1.1.6-py2-none-any.whl
+Collecting functools32; python_version == "2.7" (from jsonschema!=2.5.0,>=2.4->nbformat>=4.2->plotly)
+  Downloading functools32-3.2.3-2.zip
+Building wheels for collected packages: plotly, functools32
+  Running setup.py bdist_wheel for plotly ... done
+  Stored in directory: /home/dloar/.cache/pip/wheels/35/e4/58/50b15ca81e61bd553172ca2dc2ddf4a53278da34f3a9d8e5e9
+  Running setup.py bdist_wheel for functools32 ... done
+  Stored in directory: /home/dloar/.cache/pip/wheels/3c/d0/09/cd78d0ff4d6cfecfbd730782a7815a4571cd2cd4d2ed6e69d9
+Successfully built plotly functools32
+Installing collected packages: decorator, enum34, six, ipython-genutils, traitlets, jupyter-core, functools32, jsonschema, nbformat, pytz, urllib3, idna, chardet, certifi, requests, plotly
+Successfully installed certifi-2018.1.18 chardet-3.0.4 decorator-4.2.1 enum34-1.1.6 functools32-3.2.3.post2 idna-2.6 ipython-genutils-0.2.0 jsonschema-2.6.0 jupyter-core-4.4.0 nbformat-4.4.0 plotly-2.4.1 pytz-2018.3 requests-2.18.4 six-1.11.0 traitlets-4.3.2 urllib3-1.22
+dloar@raspberrypi:~/GitDir $ 
