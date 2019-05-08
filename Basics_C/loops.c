@@ -61,3 +61,18 @@
 //}
 
 //For loops
+// Nesting the loops
+/* Demostration of the nested loops. */
+main( )
+{
+    int r, c, sum ;
+    for(r=1;r<=3;r++) /*outerloop*/
+    {
+        for(c=1;c<=3;c++) /*innerloop*/
+        {
+            sum = r + c ;
+            //printf ( "r = %d c = %d sum = %d\n", r, c, sum ) ;
+            printf ( "r = %d c = %d sum = %d\n", r, c, r + c ) ;
+        }
+    }
+}
