@@ -1,4 +1,5 @@
 /* scuba diving function." */
+#define consumption 30
 
 main(){
     int deep, time, bottle_presure, reserve, req_air, deep_consumption, consumption;
@@ -13,11 +14,10 @@ main(){
     scanf("%d", &reserve);
 
 printf("\nFor %d minutes dive into %d metres.", time, deep);
-    consumption = 30;
     presure_atm = 1 + ((double)deep/(double)10);
     deep_consumption = consumption * presure_atm;
     req_air = time * deep_consumption;
         bottle_volume = req_air/(bottle_presure-reserve);
 
-printf("\nYou need %.1f liters of bottle.\n", bottle_volume);
+printf("\nYou need %.1f liters of oxygen.\n", bottle_volume);
 }
