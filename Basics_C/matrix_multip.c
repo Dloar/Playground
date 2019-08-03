@@ -76,3 +76,8 @@ int main()
   return 0;
 
 }
+
+BOSNIA AND HERZEGOVINA	average	0.95
+CYPRUS	average	1.03
+LITHUANIA	average	0.95
+SWITZERLAND	average	1.00
